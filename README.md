@@ -13,8 +13,7 @@ Visit [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app) for the latest TikT
 - **GitHub**: [US-USA](https://github.com/US-USA)
 - **Website**: [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app)
 
-- **Website**: [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app)
-- **Purpose**: Deliver TikTok case studies, algorithm insights, and growth strategies.
+
 - **Owner**: Mina, originally from Egypt, now living in America.
 
 ## License
