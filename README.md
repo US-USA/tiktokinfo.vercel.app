@@ -6,7 +6,7 @@ Welcome to **tiktokinfo.vercel.app Studies**
 [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app) owned by Mina
 
 ## Getting Started
-1. Visit [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app) for the latest TikTok studies and updates.
+Visit [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app) for the latest TikTok studies and updates.
 
 ## Contact
 - **Telegram**: [Z_0_G](t.me/z_0_g)
