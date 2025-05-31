@@ -2,19 +2,31 @@
 
 Welcome to **tiktokinfo.vercel.app Studies**
 
-## About TikTokInfo Studies
-[tiktokinfo.vercel.app](https://tiktokinfo.vercel.app) owned by Mina
 
-## Getting Started
-Visit [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app) for the latest TikTok studies and updates.
+# TikTokInfo
+
+A powerful web app that shows TikTok user following list, profile info, and more — just by entering their username.
+
+🌍 Live: [https://tiktokinfo.vercel.app](https://tiktokinfo.vercel.app)
+
+---
+
+## 📌 Features
+- 🔍 Search any TikTok username
+- 👥 View following list (even paginated)
+- 🖼️ Get profile picture, bio, followers/following count
+- ⚙️ Built using Flask + JavaScript
+- 🔐 Includes Cloudflare Turnstile human verification
+
+---
+
+## 🧑‍💻 Made By
+
+**Mena** — 🇪🇬 Egypt  
+Telegram: [@Z_0_G](https://t.me/Z_0_G)  
+---
 
 ## Contact
 - **Telegram**: [Z_0_G](t.me/z_0_g)
 - **GitHub**: [US-USA](https://github.com/US-USA)
 - **Website**: [tiktokinfo.vercel.app](https://tiktokinfo.vercel.app)
-
-
-- **Owner**: Mina, originally from Egypt, now living in America.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
