@@ -1,22 +1,20 @@
 # TikTokInfo Studies
 
-Welcome to **tiktokinfo.vercel.app Studies**
+Welcome to **tiktokinfo.vercel.app** 
 
 
 # TikTokInfo
 
-A powerful web app that shows TikTok user following list, profile info, and more — just by entering their username.
+A powerful web app that shows TikTok user following list, profile info, and more — **just by entering their username.**
 
-🌍 Live: [https://tiktokinfo.vercel.app](https://tiktokinfo.vercel.app)
+**🌍 Live: [https://tiktokinfo.vercel.app](https://tiktokinfo.vercel.app)**
 
 ---
 
 ## 📌 Features
 - 🔍 Search any TikTok username
-- 👥 View following list (even paginated)
-- 🖼️ Get profile picture, bio, followers/following count
-- ⚙️ Built using Flask + JavaScript
-- 🔐 Includes Cloudflare Turnstile human verification
+- 👥 **View following list** & **follower list**
+- 🖼️ **Get profile picture**, bio, followers/following count, **country**
 
 ---
 
