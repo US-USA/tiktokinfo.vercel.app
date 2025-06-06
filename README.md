@@ -2,6 +2,12 @@
 
 Welcome to **tiktokinfo.vercel.app** 
 
+<img 
+  src="https://raw.githubusercontent.com/US-USA/tiktokinfo.vercel.app/master/TikTokFinder.png" 
+  alt="TikTokFinder" 
+  width="400" 
+  height="300"
+/>
 
 # TikTokInfo
 
