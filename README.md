@@ -1,4 +1,4 @@
-# TikTok Scraper 
+# TikTok info 
 
 Welcome to **tiktokinfo.vercel.app** 
 
